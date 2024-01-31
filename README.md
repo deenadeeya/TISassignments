@@ -1,5 +1,5 @@
-# TECHNOLOGY AND INFORMATION SYSTEM COURSE TASKS
-This contains all the assignments and tasks in the Technology and Information System course.
+# TECHNOLOGY AND INFORMATION SYSTEM TASKS
+_This contains all the assignments and tasks in the Technology and Information System course._
 
 Assignment 1 : Poster on Industry Talk 1
 [Industry Talk 1 Poster.pdf](https://github.com/deenadeeya/deenadeeya/files/14115051/Industry.Talk.1.Poster.pdf)
