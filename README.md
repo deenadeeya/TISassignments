@@ -7,6 +7,7 @@ Assignment 1 : Poster on Industry Talk 1
 - Reflection: The insights gained during the talk provided a clear understanding of the industry landscape, enabling me to envision potential career paths and identify the essential skills for success. This exposure actively broadened my perspective on the dynamic nature of ICT jobs and fueled my motivation to explore and excel in the software industry.
 
 Assignment 2 : Video
+https://www.youtube.com/watch?v=yvHwx3PiTz4
 
 - Reflection: Reflection: By using the digital tools emphasized in the UTM Digital talk, I am ready to commit to my academic tasks, utilizing resources like Microsoft 365 and MatLab to enhance my understanding and application of programming concepts. The integrated technology and support from UTM Digital will actively contribute to my journey of becoming a software engineer by fostering an engaging and efficient learning process.
 
